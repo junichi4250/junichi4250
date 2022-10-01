@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=junichi4250&show_icons=true&theme=tokyonight"> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junichi4250&layout=compact&theme=tokyonight&hide=c%2b%2b">
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=junichi4250&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
