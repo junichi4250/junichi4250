@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 💬 I'm interested in GraphQL and gRPC<br>
 📫 How to reach me:katojun@crunchtimer.jp,&nbsp;[Twitter](https://twitter.com/JunichiKato10), [Qiita](https://qiita.com/jun_kato)
 
-<br><br>
+<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=junichi4250&show_icons=true&theme=tokyonight"> 
 
