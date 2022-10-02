@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <b>BIO</b><br>
- I'm a Software Engineer working in Hiroshima<br>
+ I'm a Software Engineer working in Hiroshima, Japan<br>
 ⚙️ I use daily: ReactJS,Go,Laravel<br>
 💬 I'm interested in GraphQL and gRPC<br>
 📫 How to reach me:katojun@crunchtimer.jp,&nbsp;[Twitter](https://twitter.com/JunichiKato10), [Qiita](https://qiita.com/jun_kato)
